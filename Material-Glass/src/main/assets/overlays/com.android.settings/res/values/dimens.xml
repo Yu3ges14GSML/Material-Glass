@@ -13,4 +13,5 @@
     <dimen name="dashboard_padding_end">10.0dip</dimen>
     <dimen name="dashboard_padding_top">10.0dip</dimen>
     <dimen name="dashboard_padding_bottom">10.0dip</dimen>
+    <dimen name="suw_card_corner_radius">5.0dip</dimen>
 </resources>
